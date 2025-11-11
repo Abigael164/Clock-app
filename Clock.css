@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to left,rgb(255, 167, 2),rgb(252, 222, 89),rgb(115, 231, 61));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+    
+}
+.container{
+    cursor: pointer;
+    font-size: 4em;
+    text-align: center;
+    font-family: monospace;
+}
+.mytime{
+    margin-bottom: 10px;
+}
